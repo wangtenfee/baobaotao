@@ -1,0 +1,9 @@
+target/
+Servers/
+bin/
+RemoteSystemsTempFiles/
+.metadata/
+.git/
+.recommenders/
+lib/
+*.jar

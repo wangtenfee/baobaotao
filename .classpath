@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="WebContent/WEB-INF/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/httpclient4_5_2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring3.0.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/taglib"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_73">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/otherjar4spring"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysqlconnector"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>
